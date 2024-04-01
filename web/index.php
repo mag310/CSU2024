@@ -1,6 +1,6 @@
 <?php
 
-use Mag310\C2024\App;
+use Mag310\Csu2024\App;
 
 require dirname(__DIR__) . '/vendor/autoload.php';
 

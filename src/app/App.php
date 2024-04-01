@@ -1,6 +1,6 @@
 <?php
 
-namespace Mag310\C2024;
+namespace Mag310\Csu2024;
 
 class App
 {
